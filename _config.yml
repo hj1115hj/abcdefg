@@ -11,7 +11,7 @@
 # https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
 
 # theme                  : "minimal-mistakes-jekyll"
-remote_theme           : "mmistakes/minimal-mistakes"
+remote_theme             : "mmistakes/minimal-mistakes"
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
@@ -21,8 +21,8 @@ title_separator          : "-"
 name                     : "Your Name"
 description              : "Hello I'm a ssafy-6"
 url                      : "https://hj1115hj.github.io"
-baseurl                  : "/blog"
-repository               : "hj1115hj/ssafy-6"
+baseurl                  : "/abcdefg"
+#repository               : "hj1115hj/ssafy-6"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
