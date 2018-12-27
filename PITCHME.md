@@ -9,7 +9,7 @@
 
 ----
 
-### 팀 소개2
+### 이어서
   
 주혜진 : **뷰티 유튜버**
 > *침착함*
@@ -48,7 +48,7 @@
 
 ### 양희동[양동이]
   
-<img width="400" src="https://user-images.githubusercontent.com/34855745/50469489-fe4fff00-09ef-11e9-8334-66594898b09e.jpg">
+<img width="300" src="https://user-images.githubusercontent.com/34855745/50469489-fe4fff00-09ef-11e9-8334-66594898b09e.jpg">
 
 ##### 연말에 하고 싶은 것
 > 일몰 보러 가고 싶어요!
