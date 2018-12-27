@@ -21,8 +21,8 @@ title_separator          : "-"
 name                     : "Your Name"
 description              : "Hello I'm a ssafy-6"
 url                      : "https://hj1115hj.github.io"
-baseurl                  : "/ssafy-6"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+baseurl                  : "/blog"
+repository               : "hj1115hj/ssafy-6"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
