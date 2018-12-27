@@ -1,3 +1,4 @@
+
 ---
 # 팀 소개
 
@@ -18,6 +19,7 @@
 **와플맨**
   
 <img width="500" src="https://user-images.githubusercontent.com/34855745/50469434-b29d5580-09ef-11e9-8f89-f59dfcaba9e1.jpg">
+
 ## 연말에 하고 싶은 것
 > 친구들과 함께 놀면서 새해를 맞이하고 싶어요!
   
